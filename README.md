@@ -17,3 +17,13 @@
 ### AWD
 ![mpg_AWD.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/mpg_AWD.PNG)
 
+## Summary Statistics on Suspension Coils
+
+
+## T-Tests on Suspension Coils
+![ttest.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/ttest.PNG)
+![ttestLot1.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/ttestLot1.PNG)
+![ttestLot2.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/ttestLot2.PNG)
+![ttestLot3.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/ttestLot3.PNG)
+
+
