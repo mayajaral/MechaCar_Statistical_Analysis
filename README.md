@@ -22,8 +22,12 @@
 
 ## T-Tests on Suspension Coils
 ![ttest.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/ttest.PNG)
+### Lot 1
 ![ttestLot1.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/ttestLot1.PNG)
+### Lot 2
 ![ttestLot2.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/ttestLot2.PNG)
+### Lot 3
 ![ttestLot3.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/ttestLot3.PNG)
 
 
+## Study Design: MechaCar vs Competition
