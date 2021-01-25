@@ -46,3 +46,9 @@ The p-value indicates that the true mean and the sample mean are not similar.
 The p-value indicates that the true mean and the sample mean are not similar. 
 
 ## Study Design: MechaCar vs Competition
+The highway fuel efficiency will be tested by using the fuel consumption, distance travelled and speed data. 
+
+Null Hypothesis: MechaCar and the competition have the same highway fuel efficiency.
+Alernative Hypothesis: MechaCar and the competition do not have the same highway fuel efficiency.
+
+A two-sample t-test can be used to compare the two datasets, with the p-value determining the significance of the results. 
