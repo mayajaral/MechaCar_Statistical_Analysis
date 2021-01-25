@@ -31,12 +31,18 @@ The guidelines for MechaCar suspension coils dictate that the variance of the su
 
 ## T-Tests on Suspension Coils
 ![ttest.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/ttest.PNG)
+The p-value of 0.06 shows that the true mean and our calculated mean are similar. 
+
 ### Lot 1
 ![ttestLot1.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/ttestLot1.PNG)
+The p-value indicates that the true mean and the sample mean are not similar. 
+
 ### Lot 2
 ![ttestLot2.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/ttestLot2.PNG)
+The p-value indicates that the true mean and the sample mean are not similar. 
+
 ### Lot 3
 ![ttestLot3.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/ttestLot3.PNG)
-
+The p-value indicates that the true mean and the sample mean are not similar. 
 
 ## Study Design: MechaCar vs Competition
