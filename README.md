@@ -23,6 +23,8 @@ Ground clearance has a low adjusted R-value and low p-value in relationship to M
 ![mpg_AWD.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/mpg_AWD.PNG)
 AWD has a low adjusted R-value and low p-value in relationship to MPG, indicating an insignificant relationship. 
 
+### Summary
+In summary, vehicle length is the only significant variable in predicting the MPG. The slope of the linear model is not considered to be 0, but it is very small and thus not significant. Thus, these linear models do not predict MPG effectively. 
 ## Summary Statistics on Suspension Coils
 
 
