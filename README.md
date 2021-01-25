@@ -1,21 +1,27 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
+By running linear regression on different variables versus MPG we can determine which factors are causal to the MPG.
 
 ### Vehicle Weight
 ![mpg_vehicle_weight.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/mpg_vehicle_weight.PNG)
+The adjusted R-squared indicates that vehicle weight does not approximate MPG well, this coupled with the high p-value indicates that vehicle weight does not have a correlational relationship with MPG. 
 
 ### Vehicle Length
 ![mpg_vehicle_length.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/mpg_vehicle_length.PNG)
+Although the adjusted R-squared does not indicate a strong relationship between vehicle length and MPG, the very low p-value indicates that this weak relationship is significant. 
 
 ### Spoiler Angle 
 ![mpg_spoiler_angle.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/mpg_spoiler_angle.PNG)
+The very high p-value and very low adjusted R-squared indicate that spoiler angle does not a relationship with MPG.
 
 ### Ground Clearance
 ![mpg_ground_clearance.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/mpg_ground_clearance.PNG)
+Ground clearance has a low adjusted R-value and low p-value in relationship to MPG, indicating an insignificant relationship. 
 
 ### AWD
 ![mpg_AWD.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/mpg_AWD.PNG)
+AWD has a low adjusted R-value and low p-value in relationship to MPG, indicating an insignificant relationship. 
 
 ## Summary Statistics on Suspension Coils
 
