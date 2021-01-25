@@ -25,8 +25,9 @@ AWD has a low adjusted R-value and low p-value in relationship to MPG, indicatin
 
 ### Summary
 In summary, vehicle length is the only significant variable in predicting the MPG. The slope of the linear model is not considered to be 0, but it is very small and thus not significant. Thus, these linear models do not predict MPG effectively. 
-## Summary Statistics on Suspension Coils
 
+## Summary Statistics on Suspension Coils
+The guidelines for MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The manufactoring data for all the lost combined meets this specification, as well as the data for Lot 1 and Lot 2. However, Lot 3 on it's own does not meet this requirement. 
 
 ## T-Tests on Suspension Coils
 ![ttest.PNG](https://github.com/mayajaral/MechaCar_Statistical_Analysis/blob/main/Images/ttest.PNG)
